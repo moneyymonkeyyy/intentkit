@@ -21,12 +21,12 @@ This project is currently in alpha stage and is not recommended for production u
                                                                                                        
                                  Entrypoints                                                           
                        │                             │                                                 
-                       │   Twitter/Telegram & more   │                                                 
+                       │   @memethunter   │                                                 
                        └──────────────┬──────────────┘                                                 
                                       │                                                                
   Storage:  ────┐                     │                      ┌──── Skills:                             
                 │                     │                      │                                         
-  Agent Config  │     ┌───────────────▼────────────────┐     │  Chain Integration (EVM,solana,etc...)  
+  Agent Config  │     ┌───────────────▼────────────────┐     │  Chain Integration (0xD28Acf529cF5656287F13bfDF604c29dD4673044)  
                 │     │                                │     │                                         
   Credentials   │     │                                │     │  Wallet Management                      
                 │     │           The  Agent           │     │                                         
